@@ -16,6 +16,8 @@ dengan nama repository polinema_mobile_flutter_hello.
 
 ## OUTPUT PRAKTIKUM
 
+![Screenshoot](https://user-images.githubusercontent.com/92065809/219352747-3d2edb9b-71c0-46c5-84cb-f5881d569f78.jpg)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
