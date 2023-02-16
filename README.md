@@ -14,6 +14,7 @@ hello_world ke emulator / device android.
 lah tampilan aplikasi menjadi seperti gambar berikut dan publish ke repository github 
 dengan nama repository polinema_mobile_flutter_hello. 
 
+## OUTPUT PRAKTIKUM
 
 A few resources to get you started if this is your first Flutter project:
 
